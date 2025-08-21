@@ -1,0 +1,686 @@
+Categorias de assuntos	Assunto
+(COM) Comercial	(COM) Lead cliente final
+(COM) Comercial	(COM) Lead revenda
+(COM) Comercial	(COM) Agendamento apresentação comercial
+(COM) Comercial	(COM) Implantação demonstração
+(COM) Comercial	(COM) Agendamento briefing
+(COM) Comercial	(COM) Agendamento apresentação LC Pay
+(COM) Comercial	(COM) Ligação pós-venda
+(COM) Comercial	(COM) Primeira Ligação
+(FIN) Certificado Digital	(FIN) Baixa do arquivo de certificado digital - Dúvidas
+(FIN) Certificado Digital	(FIN) Pedido de boleto/pix para pagamento de certificado digital
+(FIN) Certificado Digital	(Fin) Como fazer solicitação/Emissão de Certificado
+(FIN) Certificado Digital	(FIN) Valores de Certificado Digital - PJ ou PF
+(FIN) Certificado Digital	(FIN) Baixa do arquivo de certificado digital - Dúvidas
+(FIN) Certificado Digital	(FIN) Dados e documentação para certificação digital - Dúvidas
+(FIN) Certificado Digital	(FIN) Cancelamento/Reembolso de certificado digital
+(FIN) Certificado Digital	(FIN) Agendamento ou Reagendamento de videoconferência
+(FIN) Certificado Digital	(FIN) Outras dúvidas relacionadas a certificado digital
+(FIN) Certificado Digital	(FIN) Pedido/envio de boleto ou pix para pagamento de certificado digital
+(FIN) Certificado Digital	(FIN) Inatividade - Certificado Digital
+(FIN) Financeiro e Administrativo	(FIN) Solic. de Rev. - Declaração SNPG
+(FIN) Financeiro e Administrativo	(FIN) Dificuldade de registro
+(FIN) Financeiro e Administrativo	(FIN) Abriu chamado e já havia resolvido
+(FIN) Financeiro e Administrativo	(FIN) Reabriu atend. com feedback de outro atendimento
+(FIN) Financeiro e Administrativo	Transferência de carteira - Tratativas e trâmites
+(FIN) Financeiro e Administrativo	Solic. de Rev. - modelo de contrato do IMendes
+(FIN) Financeiro e Administrativo	Solic. de Rev. - Solic. de reconhec. na SEFAZ
+(FIN) Financeiro e Administrativo	(FIN) Solic. de Nota Fiscais emitidas pelo financeiro
+(FIN) Financeiro e Administrativo	Pedido de isenção ou negociação de mensalid. em atraso
+(FIN) Financeiro e Administrativo	(POR) CNPJ do portal diferente do Sistema
+(FIN) Financeiro e Administrativo	(POR) Efetuando o registro mensal e voltando para tela de registro
+(FIN) Financeiro e Administrativo	(POR) Aviso de Sistema expirando - sem pagamentdentro no mês corrente
+(FIN) Financeiro e Administrativo	(FIN) Solic. de Rev. - Declaração SNPG
+(FIN) Financeiro e Administrativo	(FIN) Transferência de carteira - Tratativas e trâmites
+(FIN) Financeiro e Administrativo	(FIN) Solic. de Rev. - Solic. de reconhec. na SEFAZ
+(FIN) Financeiro e Administrativo	(FIN) Solic. de Rev. - modelo de contrato do IMendes
+(FIN) Financeiro e Administrativo	(FIN) Pedido de isenção ou negociação de mensalid. em atraso
+(FIN) Financeiro e Administrativo	(FIN) CNPJ do portal diferente do Sistema
+(FIN) Financeiro e Administrativo	(FIN) Efetuando o registro mensal e voltando para tela de registro
+(FIN) Financeiro e Administrativo	(FIN) Aviso de Sistema expirando - sem pagamentdentro no mês corrente
+(FIN) Financeiro e Administrativo	(FIN) Aviso de Sistema expirando - sem pagamento no mês corrente
+(FIN) Financeiro e Administrativo	(FIN) Dúvidas / Informações - Descrever
+(FIN) Financeiro e Administrativo	(FIN) Contrato expirado/renovação
+(FIN) Financeiro e Administrativo	(FIN) Contrato expirado-renovação
+(FIN) Financeiro/Administrativo	(FIN) Abriu chamado e já havia resolvido
+(FIN) Financeiro/Administrativo	(FIN) Abriu chamado com feedback de outro atendimento
+(FIN) Financeiro/Administrativo	(FIN) Transferência de carteira - Tratativas e trâmites
+(FIN) Financeiro/Administrativo	(FIN) Revenda solicitando Declaração SNGPC
+(FIN) Financeiro/Administrativo	(FIN) Revenda solicitando modelo de contrato do IMendes
+(FIN) Financeiro/Administrativo	(FIN) Solicitação de reconhecimento na SEFAZ
+(FIN) Financeiro/Administrativo	(FIN) Tratativas do Adm.- Dúvidas de Clientes
+(FIN) Financeiro/Administrativo	(FIN) Tratativas do Adm.- Dúvidas sobre Vagas de emprego
+(FIN) Financeiro/Administrativo	(FIN) Tratativas do Adm.- Fornecedores
+(FIN) Financeiro/Administrativo	(FIN) Solicitação de Nota Fiscais emitidas pelo financeiro
+(FIN) Financeiro/Administrativo	(FIN) Solucionado via ligação
+(FIN) Financeiro/Administrativo	(FIN) Pedido de isenção ou negociação de mensalidades em atraso
+(FIN) Financeiro/Administrativo	(FIN) Dúvidas LC PAY
+(FIN) Financeiro/Administrativo	(FIN) Outros referente ao Financeiro
+(FIN) Financeiro/Administrativo	(FIN) Inatividade
+(FIN) Financeiro/Administrativo	(FIN) Teste da plataforma
+(FIN) Financeiro/Administrativo	(FIN) Reclamação de Revendas
+(FIN) Portal do Decolador	(FIN) Alteração cadastral - Dúvidas sobre alteração de dados do cliente no portal
+(FIN) Portal do Decolador	(FIN) Dificuldade de registro - Ausência da 1ª mensalidade no mês atual
+(FIN) Portal do Decolador	(FIN) Dificuldade de registro - Contrato expirado/renovação
+(FIN) Portal do Decolador	(FIN) Dificuldade de registro - Cliente sem contrato - Regularize seu cadastro
+(FIN) Portal do Decolador	(FIN) Dificuldade de registro - CNPJ da máquina diferente do CNPJ do contrato
+(FIN) Portal do Decolador	(FIN) Dificuldade de registro - Limite de senha fidelidade excedido (Erro 155)
+(FIN) Portal do Decolador	(FIN) Cadastro de clientes - Dúvidas ao cadastrar cliente
+(FIN) Portal do Decolador	(FIN) Cadastro de cliente - Cliente fictício
+(FIN) Portal do Decolador	(FIN) Cadastro de cliente - Nova cidade para atuação - Como fazer solicitação
+(FIN) Portal do Decolador	(FIN) Contrato de clientes - Dúvidas ao fazer contrato de cliente
+(FIN) Portal do Decolador	(FIN) Contrato de clientes -  Solic. de modelo de contrato Revenda x Cliente
+(FIN) Portal do Decolador	(FIN) Alteração cadastral - Alteração cadastral de Revenda
+(FIN) Portal do Decolador	(FIN) Cancelamento de clientes - Pedido de aprovação de solicitação
+(FIN) Portal do Decolador	(FIN) Cancelamento de clientes - Como fazer Solicitação de Cancelamento
+(FIN) Portal do Decolador	(FIN) Reativação do cliente - Como fazer
+(FIN) Portal do Decolador	(FIN) Reativação de Revenda Inativa - Tratativas
+(FIN) Portal do Decolador	(FIN) Renovação de contrato - Dúvidas/Informações
+(FIN) Portal do Decolador	(FIN) Dia bloqueio e bloqueio em tempo real
+(FIN) Portal do Decolador	(FIN) Pagamento de cobranças - Retorno de saldo negativo - Como fazer
+(FIN) Portal do Decolador	(FIN) Pagamento de cobranças - Dúvidas sobre como pagar a LC
+(FIN) Portal do Decolador	(FIN) Senhas e liberações - Geração de senha manual - Dúvidas
+(FIN) Portal do Decolador	(FIN) Senhas e liberações - Liberação de senha fidelidade - Dúvidas
+(FIN) Portal do Decolador	(FIN) Solicitação - Aprovar Nova cidade para atuação
+(FIN) Portal do Decolador	(FIN) Solicitação - Alteração cadastral de Cliente -Dúvidas
+(FIN) Portal do Decolador	(FIN) Solicitação - Serv. adicion. em maquininha Stone - LC Gourmet
+(FIN) Portal do Decolador	(FIN) Solicitação - Alteração de CNPJ - Dúvidas
+(FIN) Portal do Decolador	(FIN) Solicitação - Serv. adicion. em maquininha Stone - LC Balcão
+(FIN) Portal do Decolador	(FIN) Solicitação - Serv. adicion. em maquininha Cielo - LC Gourmet
+(FIN) Portal do Decolador	(FIN) Solicitação - Serv. adicion. em maquininha Cielo - LC Balcão
+(FIN) Portal do Decolador	(FIN) Solicitação - Serv. adicion. em maquininha Pagbank - LC Gourmet
+(FIN) Portal do Decolador	(FIN) Solicitação - Serv. adicion. em maquininha Pagbank - LC Balcão
+(FIN) Portal do Decolador	(FIN) Solicitação - Como solicitar cancelamento de contrato
+(FIN) Portal do Decolador	(FIN) Solicitação - Como alterar o plano do cliente - qtd. pc, vencimento, dia bloqueio
+(FIN) Portal do Decolador	(FIN) Outros Referentes Ao Portal - Especifique em Observações
+(FIN) Portal do Decolador	(FIN) Dúvidas sanadas com Menu Ajuda - Portal
+(FIN) Portal do Decolador	(FIN) Revenda solicitando código da Revenda
+(FIN) Portal do Decolador	(FIN) Serviços Adicionais - Shipay - Valores, planos ou aprovação
+(FIN) Portal do Decolador	(FIN) Serviços Adicionais - Imendes - Valores, planos ou aprovação
+(FIN) Portal do Decolador	(FIN) Serviços Adicionais - Como adicionar ao contrato do cliente
+(FIN) Portal do Decolador	(FIN) Serviços Adicionais - Como cancelar do contrato do cliente
+(FIN) Portal do Decolador	(FIN) Serviços Adicionais - Como adicionar para a revenda - Informação e Token
+(FIN) Portal do Decolador	(FIN) Serviços Adicionais - Como gerar token do serviço
+(FIN) Portal do Decolador	(FIN) Serviços Adicionais - Valor - LC Gourmet, LC Balcão, Dashboard e/ou Força de Vendas
+(FIN) Portal do Decolador	(FIN) Serviços Adicionais - Adicionar CNPJ a usuário Dashboard
+(FIN) Portal do Decolador	(FIN) Senhas e liberações - Geração de senha demonstração temporária
+(FIN) Portal do Decolador	(FIN) Serviços Adicionais - Alteração de senha Dashboard
+(MIG)  Agendamento	(MIG)  Agendamento
+(MIG) Banco dados	(MIG)  Coleta
+(MIG) Banco dados	(MIG) Extração de tabelas
+(MIG) Banco dados	(MIG) Comandos
+(MIG) Duvidas	(MIG) Tipo de banco
+(MIG) Duvidas	(MIG) Status da Migração
+(MIG) Inatividade	(MIG) inatividade
+(SUP) Aplicativos	(Sup) App lc balcão - outro (Descreva)
+(SUP) Aplicativos	(Sup) App lc gourmet - outro (Descreva)
+(SUP) Aplicativos	(Sup) App lc força de vendas - outro (Descreva)
+(SUP) Aplicativos	(Sup) App lc Dashboard - outro (Descreva)
+(SUP) Aplicativos	(Sup) App lc coletor de dados - outro (Descreva)
+(SUP) Aplicativos	(SUP) App lc balcão - atualização
+(SUP) Aplicativos	(SUP) App lc balcão -  Instalação
+(SUP) Aplicativos	(SUP) App lc balcão - configuração
+(SUP) Aplicativos	(SUP) App lc balcão - Comunicação
+(SUP) Aplicativos	(SUP) App lc balcão -  App no IOS não lê código de barras
+(SUP) Aplicativos	(SUP) App lc balcão -Funcionalidade
+(SUP) Aplicativos	(SUP) App lc Gourmet - Instalação
+(SUP) Aplicativos	(SUP) App lc Gourmet -Atualização
+(SUP) Aplicativos	(SUP) App lc Gourmet -Configuração
+(SUP) Aplicativos	(SUP) App lc Gourmet -Comunicação
+(SUP) Aplicativos	(SUP) App lc F.vendas - atualização
+(SUP) Aplicativos	(SUP) App lc F.vendas - Instalação
+(SUP) Aplicativos	(SUP) App lc F.vendas - Configuração
+(SUP) Aplicativos	(SUP) App lc F.vendas - Resetar o banco na AWS
+(SUP) Aplicativos	(SUP) App lc F.vendas - erro ao enviar pedido
+(SUP) Aplicativos	(SUP) App lc F.vendas - erro ao sincronizar
+(SUP) Aplicativos	(SUP) App lc F.vendas - Erro ao sincronizar cad. cliente - Data do RG
+(SUP) Aplicativos	(SUP) App lc F.vendas - Erro ao sincronizar cadastros - 400 Query did not return a unique result
+(SUP) Aplicativos	(SUP) App lc F.vendas - App fechando ao consultar pedido
+(SUP) Aplicativos	(SUP) App lc F.vendas - Como trabalhar com kit de produto
+(SUP) Aplicativos	(SUP) App lc dashboard - Atualização
+(SUP) Aplicativos	(SUP) App lc dashboard - Instalação
+(SUP) Aplicativos	(SUP) App lc dashboard - Servidor Offline
+(SUP) Aplicativos	(SUP) App lc dashboard - Configuração
+(SUP) Aplicativos	(SUP) App lc dashboard - valores divergentes
+(SUP) Aplicativos	(SUP) App lc dashboard - Data/hora incorreta
+(SUP) Aplicativos	(SUP) App lc dashboard - Funcionalidade
+(SUP) Aplicativos	(SUP) App lc dashboard -Sincronizador não abre (aberto várias vezes)
+(SUP) Aplicativos	(SUP) App lc dashboard - Sincronismo bloqueado pelo Radmin VPN
+(SUP) Aplicativos	(SUP) App lc dashboard - Retorno - Token inválido
+(SUP) Aplicativos	(SUP) App lc dashboard -Sincronismos parados após instabilidade no Dash
+(SUP) Aplicativos	(SUP) App lc dashboard - Erro ao sincronizar - Unable to find Produto with id '' of entity estoquesaldo
+(SUP) Aplicativos	(SUP) App lc Coletor dados - Configuração
+(SUP) Aplicativos	(SUP) App lc Coletor dados - Funcionalidade
+(SUP) Atendimento adiado	(SUP) Atendimento adiado - outro
+(SUP) Banco de dados	(SUP) Banco de dados - Instalação
+(SUP) Banco de dados	(SUP) Banco de dados - reconfiguração da instância
+(SUP) Banco de dados - desktop	(SUP) Bco. Dados - outro
+(SUP) Banco de dados - desktop	(SUP) Bco. Dados- Instalação
+(SUP) Banco de dados - desktop	(SUP) Bco. Dados- Fazer backup pasta data
+(SUP) Banco de dados - desktop	(SUP) Bco. Dados - Restaurar backup pasta data
+(SUP) Banco de dados - desktop	(SUP) Bco. Dados - Fazer backup pelo QueryBrowser
+(SUP) Banco de dados - desktop	(SUP) Bco. Dados - Restaurar backup pelo QueryBrowser
+(SUP) Banco de dados - desktop	(SUP) Bco. Dados - Null null - Primeira instalação
+(SUP) Banco de dados - desktop	(SUP) Bco. Dados - Análise
+(SUP) Banco de dados - desktop	(SUP) Bco. Dados - Hackeado
+(SUP) Banco de dados - desktop	(SUP) Bco. Dados -Comandos - Rotina de atualização
+(SUP) Banco de dados - desktop	(SUP) Bco. Dados -Comandos - Alterar serie/numeração de NFC-e com duplicidade
+(SUP) Banco de dados - desktop	(SUP) Bco. Dados -Comandos - Alterar status de notas em massa (Inutilizada)
+(SUP) Banco de dados - desktop	(SUP) DB -Hackeado
+(SUP) Banco de dados - desktop	(SUP) DB -Null null - Primeira instalação
+(SUP) Banco de dados - desktop	(SUP) DB -Instalação
+(SUP) Banco de dados - desktop	(SUP) DB -Análise
+(SUP) Banco de dados - desktop	(SUP) DB -Cmd-  Alterar status de notas em massa (Inutilizada)
+(SUP) Banco de dados - desktop	(SUP) DB -Restaurar backup pasta data
+(SUP) Banco de dados - desktop	(SUP) DB -Cmd- Alterar serie/numeração de NFC-e com duplicidade
+(SUP) Banco de dados - desktop	(SUP) DB - Fazer backup pelo QueryBrowser
+(SUP) Banco de dados - desktop	(SUP) DB -Fazer backup pasta data
+(SUP) Banco de dados - desktop	(SUP) DB -Cmd-  Rotina de atualização
+(SUP) Banco de dados - desktop	(SUP) DB -Cmd- outro
+(SUP) Banco de dados - desktop	(SUP) DB -Restaurar backup pelo QueryBrowser
+(SUP) Banco de dados - desktop	(SUP) DB -Cmd- status (Duplicidade)
+(SUP) Banco de dados - desktop	(SUP) DB -Cmd- status (Cancelada)
+(SUP) Banco de dados - desktop	(SUP) DB -Cmd- status (Denegada)
+(SUP) Banco de dados - desktop	(SUP) DB -Cmd- CPF/CNPJ do cliente
+(SUP) Banco de dados - desktop	(SUP) DB -Cmd- tributação em massa
+(SUP) Banco de dados - desktop	(SUP) DB -Cmd- preço de venda em massa
+(SUP) Banco de dados - desktop	(SUP) DB -Cmd-  Id do CEST zerado vindo do Imendes
+(SUP) Banco de dados - desktop	(SUP) DB -Cmd- Preço de custo em massa
+(SUP) Banco de dados - desktop	(SUP) DB -Cmd- Pode lote SIM ou Não em massa
+(SUP) Banco de dados - desktop	(SUP) DB -Cmd-  tipo documento do cliente
+(SUP) Banco de dados - desktop	(SUP) DB -Cmd- status do orçamento salvar
+(SUP) Banco de dados - desktop	(SUP) DB -Cmd- Admin sem permissão
+(SUP) Banco de dados - desktop	(SUP) DB -Cmd- Tipo de título do c. receber
+(SUP) Banco de dados - desktop	(SUP) DB -Cmd-  Nota de devolução de ICMS
+(SUP) Banco de dados - desktop	(SUP) DB -Cmd-  Inativar produtos em massa
+(SUP) Banco de dados - desktop	(SUP) DB -Cmd- Inativar clientes em massa
+(SUP) Banco de dados - desktop	(SUP) DB -Cmd- remover caracteres especiais
+(SUP) Banco de dados - desktop	(SUP) DB -Cmd-  Relatório personalizado
+(SUP) Banco de dados - desktop	(SUP) DB -Cmd-  Colocar zeros no código de balança
+(SUP) Banco de dados - desktop	(SUP) DB -Cmd-  Colocar zeros no código de barrar
+(SUP) Banco de dados - desktop	(SUP) DB -Cmd-  Atualização de alíquota de ICMS
+(SUP) Banco de dados - desktop	(SUP) DB -Cmd-  Inverter código de referencia e código
+(SUP) Banco de dados - desktop	(SUP) DB -Cmd-  Iniciar ID do produto com 100000
+(SUP) Banco de dados - desktop	(SUP) DB -Cmd-  Replicar código de barras no campo código
+(SUP) Banco de dados - desktop	(SUP) DB -Cmd-   Remover código repetido
+(SUP) Banco de dados - desktop	(SUP) DB -Cmd-  Remover notas antigas de entrada
+(SUP) Banco de dados - desktop	(SUP) DB -Cmd-  MDF-E apagar as tabelas no banco
+(SUP) Banco de dados - desktop	(SUP) DB -Cmd-  Iniciar ID do produto com 1
+(SUP) Banco de dados - desktop	(SUP) DB -Cmd-  Saltar Número da NFC-e
+(SUP) Banco de dados - desktop	(SUP) DB - Recuperar Banco corrompido
+(SUP) Banco de dados - desktop	(SUP) DB - extração de tabelas
+(SUP) Banco de dados - desktop	(SUP) DB - troca de CNPJ
+(SUP) Banco de dados - desktop	(SUP) DB - Extração/Importação de tabela
+(SUP) Banco de dados - desktop	(SUP) DB - Permitir no firewall
+(SUP) Banco de dados - desktop	(SUP) DB - Causado pela revenda
+(SUP) Cliente Final	(SUP) Cliente Final - outro
+(SUP) Dúvidas -equipamentos	(SUP) Dúvidas -equipamentos - outro
+(SUP) Dúvidas -equipamentos	(SUP) Dúvidas -equipamentos - outro
+(SUP) Dúvidas -ERP desktop	(SUP) Dúvidas -ERP desktop - outra
+(SUP) Dúvidas -integrações	(SUP) Dúvidas -integrações - outro
+(SUP) Dúvidas -outros	(SUP) Dúvidas -outros
+(SUP) Encaminhado - outro setores	(SUP) Encaminhado - Migração
+(SUP) Encaminhado - outro setores	(SUP) Encaminhado - Financeiro
+(SUP) Encaminhado - outro setores	(SUP) Encaminhado - Comercial
+(SUP) Encaminhado - outro setores	(SUP) Encaminhado - Gerente de contas
+(SUP) Encaminhado - outro setores	(SUP) Encaminhado - Relatórios
+(SUP) Encaminhado - outro setores	(SUP) Encaminhado - solicitação desenvolvimento
+(SUP) Equipamentos	(SUP) Impressoras- outro
+(SUP) Equipamentos	(SUP) Impressoras - instalação
+(SUP) Equipamentos	(SUP) Impressoras - Acesso negado
+(SUP) Equipamentos	(SUP) Impressoras - compartilhamento em rede
+(SUP) Equipamentos	(SUP) Impressoras - layout fora de padrão
+(SUP) Equipamentos	(SUP) Impressoras - caminho da rede errado
+(SUP) Equipamentos	(SUP) TEFs homologados
+(SUP) Equipamentos	(SUP) balan. checkout - outra
+(SUP) Equipamentos	(SUP) balan. etiquetadora - outra
+(SUP) Equipamentos	(SUP) config. prix 4 uno
+(SUP) Equipamentos	(SUP) config. Ramuza Atena II
+(SUP) Equipamentos	(SUP) config. Urano POP S
+(SUP) Equipamentos	(SUP) config. prix 8217
+(SUP) Equipamentos	(SUP) config. Urano UDC - CO 30/5e
+(SUP) Equipamentos	(SUP) config. MGV6
+(SUP) Equipamentos	(SUP) config. MGV7
+(SUP) Equipamentos	(SUP)config. urano conect
+(SUP) Equipamentos	(SUP) Import de arq no MGV 5/6/7
+(SUP) Equipamentos	(SUP) config. Elgin L42DT
+(SUP) Equipamentos	(SUP) comuni. Balança e software
+(SUP) Equipamentos	(SUP)config. smart editor
+(SUP) Equipamentos	(SUP) config. UPX Wind D3
+(SUP) Equipamentos	(SUP) config. MGV5
+(SUP) Equipamentos	(SUP) config. prix 3 fit
+(SUP) Equipamentos	(SUP) config. Filizola platina
+(SUP) Equipamentos	(SUP) equipamentos- outro
+(SUP) Equipamentos	(SUP) equip - Conf. Forma de pagamento
+(SUP) Equipamentos	(SUP) equip -  Term. de Consulta - Outro
+(SUP) Equipamentos	(SUP) equip - Term. de Consulta - Como instalar
+(SUP) Equipamentos	(SUP) equip - Term. de Consulta - Configuração do banco de dados
+(SUP) Equipamentos	(SUP) equip - Term. de Consulta - Outro
+(SUP) Equipamentos	(SUP) equip - Computador - Outro
+(SUP) Equipamentos	(SUP) equip - Computador - Processamento ruim
+(SUP) Equipamentos	(SUP) equip - Leitor de código de barras - outro
+(SUP) Equipamentos	(SUP) equip - Leitor de código de barras - como instalar
+(SUP) Equipamentos	(SUP) equip - Computador -HD Cheio
+(SUP) Equipamentos	(SUP) equip - Term. de Consulta - Config. G2 gertec
+(SUP) ERP	(SUP) ERP - Instalação
+(SUP) ERP	(SUP) ERP Cadastro - Outro
+(SUP) ERP	(SUP) ERP Cad. Empresa - Outro
+(SUP) ERP	(SUP) ERP Cad. Empresa - Outro
+(SUP) ERP	(SUP) ERP Cad. Cliente - Data too long 'obs'
+(SUP) ERP	(SUP) ERP desktop - Nota de devolução
+(SUP) ERP	(SUP) ERP desk - Nota de devolução
+(SUP) ERP	(SUP) ERP desk - Nota de devolução
+(SUP) ERP	(SUP) ERP - outro
+(SUP) ERP	(SUP) ERP - Atualização setup
+(SUP) ERP	(SUP) ERP - Atualização PI
+(SUP) ERP	(SUP) ERP - Instalação
+(SUP) ERP	(SUP) ERP - falta de colunas do banco
+(SUP) ERP	(SUP) ERP - PI Data/Hora
+(SUP) ERP	(SUP) ERP - Comunic TRM x Servidor
+(SUP) ERP	(SUP) ERP - Comunic   o banco de dados
+(SUP) ERP	(SUP) ERP - Sistema expirado
+(SUP) ERP	(SUP) ERP PDV- Conflito entre produtos
+(SUP) ERP	(SUP) ERP PDV - Analise fecham de caixa
+(SUP) ERP	(SUP) ERP PDV - Não foi possível carregar certificado digital
+(SUP) ERP	(SUP) ERP PDV - certificado vencido
+(SUP) ERP	(SUP) ERP PDV - Pis e cofins não estão completos
+(SUP) ERP	(SUP) ERP PDV - Conteúdo do elemento ICMS não está completo
+(SUP) ERP	(SUP) ERP PDV - Conteúdo do elemento 'nro' não é válido
+(SUP) ERP	(SUP) ERP - null null primeira instalação
+(SUP) ERP	(SUP)ERP - Erro ao carregar logo da softhouse
+(SUP) ERP	(SUP) ERP PDV -  Conteúdo do elemento 'cEAN' não é válido
+(SUP) ERP	(SUP) ERP PDV -  O valor do elemento 'xLgr' não é válido
+(SUP) ERP	(SUP) ERP PDV - O valor do elemento 'infCpl' não é válido
+(SUP) ERP	(SUP) ERP PDV - O valor do elemento 'xProd' não é válido
+(SUP) ERP	(SUP) ERP PDV - O valor do elemento 'CEP' não é válido
+(SUP) ERP	(SUP) ERP PDV - O valor do elemento 'CFOP' não é válido
+(SUP) ERP	(SUP) ERP PDV - Valor do elemento 'IE' não é válido
+(SUP) ERP	(SUP) ERP PDV - UTF8 caracteres especiais
+(SUP) ERP	(SUP) ERP PDV - Rollback infinity acréscimo/desconto
+(SUP) ERP	(SUP) ERP PDV -  Instabilidade na SEFAZ
+(SUP) ERP	(SUP) ERP PDV - Tributação incorreta
+(SUP) ERP	(SUP) ERP PDV -  o valor 'Unidade' do elemento 'uCom' não é valido
+(SUP) ERP	(SUP) ERP PDV - Valor do 'xnome' não é valido
+(SUP) ERP	(SUP) ERP PDV - Espaço no nome do usuário
+(SUP) ERP	(SUP) ERP PDV - Null ao informar um serviço
+(SUP) ERP	(SUP) ERP PDV - Cad empresa incompleto
+(SUP) ERP	(SUP) ERP PDV - Cadastro de cliente incompleto
+(SUP) ERP	(SUP) ERP PDV - O valor do elemento 'CNPJ' não é válido
+(SUP) ERP	(SUP) ERP PDV -  Null - Sem certificado
+(SUP) ERP	(SUP) ERP PDV - Null na abertura de caixa
+(SUP) ERP	(SUP) ERP PDV - O valor do elemento 'xJust' não é válido
+(SUP) ERP	(SUP) ERP PDV - O valor do elemento 'fone' não é válido
+(SUP) ERP	(SUP) ERP PDV - Null sem informações de combustível
+(SUP) ERP	(SUP) ERP PDV - Null - Produto sem grupo de tributação
+(SUP) ERP	(SUP) ERP PDV - Null - G. Trib com dados nulos
+(SUP) ERP	(SUP) ERP PDV - Balança de checkout não configurada
+(SUP) ERP	(SUP) ERP PDV - Null - Impressora não configurada
+(SUP) ERP	(SUP) ERP PDV - Erro de leitura de etiqueta de balança
+(SUP) ERP	(SUP) ERP PDV - Null null configuração de caixa incorreta
+(SUP) ERP	(SUP) ERP PDV - Null null formas de pagamentos
+(SUP) ERP	(SUP) ERP Balcão - outro
+(SUP) ERP	(SUP) ERP Gourmet - outro
+(SUP) ERP	(SUP) ERP OS - outro
+(SUP) ERP	(SUP) ERP faturamento  - O valor do elemento 'CEP' não é válido
+(SUP) ERP	(SUP) ERP faturamento - O valor do elemento 'nro' não é válido
+(SUP) ERP	(SUP) ERP faturamento - O sistema não pode encontrar o caminho especificado (certificado)
+(SUP) ERP	(SUP) ERP faturamento - Pasta de armazenamento de XML não encontrada
+(SUP) ERP	(SUP) ERP faturamento - Timed out ao realizar faturamento
+(SUP) ERP	(SUP) ERP Devolução - Outro
+(SUP) ERP	(SUP) ERP Retaguarda - Outro
+(SUP) ERP	(SUP) ERP pedido de venda - outro
+(SUP) ERP	(SUP) ERP faturamento - outro
+(SUP) ERP	(SUP) ERP Estoque - Outro
+(SUP) ERP	(SUP) ERP Ent. de Estoque - Verificar qtd de lote
+(SUP) ERP	(SUP) ERP Ent. de Estoque - CST em branco
+(SUP) ERP	(SUP) ERP Saida de Estoque - outra
+(SUP) ERP	(SUP) ERP Ent. de Estoque - Funci ICMS Deson
+(SUP) ERP	(SUP) ERP Ent. de Estoque - assoc. de prod errada
+(SUP) ERP	(SUP) ERP Ent. de Estoque - funcionamento da Conferência
+(SUP) ERP	(SUP) ERP Ent. de Estoque -  Nota salva e não concluída
+(SUP) ERP	(SUP) ERP Transferência - Outro
+(SUP) ERP	(SUP) ERP Ajuste de Estoque - Outro
+(SUP) ERP	(SUP) ERP Transferência - Outro
+(SUP) ERP	(SUP) ERP Transferência - Lote/Vencimento - Outro
+(SUP) ERP	(SUP) ERP Controle de Entregas - Outro
+(SUP) ERP	(SUP) ERP Balanças - Outro
+(SUP) ERP	(SUP) ERP Etiquetas - Outro
+(SUP) ERP	(SUP) ERP Etiquetas - Personalização
+(SUP) ERP	(SUP) ERP Etiquetas - Treinamento
+(SUP) ERP	(SUP) ERP Terminal de Consultas
+(SUP) ERP	(SUP) ERP Atualização de Preços - outro
+(SUP) ERP	(SUP) ERP Financeiro - Outro
+(SUP) ERP	(SUP) ERP C. Receber - Outro
+(SUP) ERP	(SUP) ERP C. pagar - Outro
+(SUP) ERP	(SUP) ERP C. Receber - não pode ser uma conta SINTÉTICA
+(SUP) ERP	(SUP) ERP - Remessa/Retorno - Outro
+(SUP) ERP	(SUP) ERP - C. Receber -
+(SUP) ERP	(SUP) ERP - C. Fidelidade - Outro
+(SUP) ERP	(SUP) ERP - C. Cartões - Outro
+(SUP) ERP	(SUP) ERP -  C. Caixa - Outro
+(SUP) ERP	(SUP) ERP -  C. Carta de Crédito - Outro
+(SUP) ERP	(SUP) ERP C. Receber - Bug visual no rodapé de somatórios
+(SUP) ERP	(SUP) ERP C. Receber - Problemas por duplicar títulos
+(SUP) ERP	(SUP) ERP Fiscal - Outro
+(SUP) ERP	(SUP) ERP - NF-e - Outro
+(SUP) ERP	(SUP) ERP NF-e nota de homologação
+(SUP) ERP	(SUP) ERP NF-e - funcionamento da contigência
+(SUP) ERP	(SUP) ERP NF-e - Modalidade do ICMS vazia
+(SUP) ERP	(SUP) ERP NF-e - Instabilidade na SEFAZ
+(SUP) ERP	(SUP) ERP NF-e - O valor do elemento 'xNome' não é válido
+(SUP) ERP	(SUP) ERP NF-e -O valor do elemento 'nro' não é válido
+(SUP) ERP	(SUP) ERP NF-e - O valor do elemento 'natOp' não é válido
+(SUP) ERP	(SUP) ERP NF-e - O valor do elemento 'xLgr' não é válido
+(SUP) ERP	(SUP) ERP NF-e - O valor do elemento 'IE' não é válido
+(SUP) ERP	(SUP) ERP NF-e - O valor do elemento CNPJ não é válido
+(SUP) ERP	(SUP) ERP NF-e - O valor do elemento 'CEP' não é válido
+(SUP) ERP	(SUP) ERP NF-e - cEnq IPI
+(SUP) ERP	(SUP) ERP NF-e - O conteúdo do elemento 'PIS'/'COFINS' não está completo
+(SUP) ERP	(SUP) ERP NF-e - Não foi possível detectar conexão com a internet, verifique sua conexão
+(SUP) ERP	(SUP) ERP NF-e -  o elemento 'dVal'. Era esperado um dos 'dFab'.
+(SUP) ERP	(SUP) ERP NF-e - Retorno caracteres especiais
+(SUP) ERP	(SUP) ERP NF-e - Null null - Produto sem grupo de tribuação
+(SUP) ERP	(SUP) ERP NF-e - Null null - Preço de custo/compra dos produtos zerado
+(SUP) ERP	(SUP) ERP NF-e - Name is mull - Dados de combustível em branco
+(SUP) ERP	(SUP) ERP NF-e - Erro timeout de conexão
+(SUP) ERP	(SUP) ERP NF-e - Timed out - Servidor de NF-e de off-line
+(SUP) ERP	(SUP) ERP NF-e - Nota autorizada sem receber retorno de autorização
+(SUP) ERP	(SUP) ERP NF-e - O valor do elemento 'refNFe' não é válido
+(SUP) ERP	(SUP) ERP NF-e - O valor do elemento 'qLote' não é válido
+(SUP) ERP	(SUP) ERP NF-e - Não foi possível carregar certificado digital
+(SUP) ERP	(SUP) ERP NF-e - Field 'id_saida' doesn't have a default value
+(SUP) ERP	(SUP) ERP NF-e - Table 'lc_sistemas.nfeorigcomb' doesn't exist
+(SUP) ERP	(SUP) ERP NF-e - Erro - Pasta de armazenamento de XML não encontrada
+(SUP) ERP	(SUP) ERP NF-e - Erro - No enum constant br.inf.portalfiscal.nfe.TUf.
+(SUP) ERP	(SUP) ERP NF-e - The system cannot infer the transport information from the url
+(SUP) ERP	(SUP) ERP NF-e - Configuração
+(SUP) ERP	(SUP) ERP NF-e - Certificado vencido
+(SUP) ERP	(SUP) ERP NF-e - End. Destinatário incompleto
+(SUP) ERP	(SUP) ERP NF-e - End. Emitente incompleto
+(SUP) ERP	(SUP) ERP NF-e - ICMS interestadual e Percentual da Partilha
+(SUP) ERP	(SUP) ERP NF-e - Forbbiden
+(SUP) ERP	(SUP) ERP NF-e - CCe - UTF8 caracteres especiais
+(SUP) ERP	(SUP) ERP NFC-e - outro
+(SUP) ERP	(SUP) ERP NFC-e -  Instabilidade na SEFAZ
+(SUP) ERP	(SUP) ERP NFC-e - vBC informado indevidamente
+(SUP) ERP	(SUP) ERP NFC-e - Config de série PDV
+(SUP) ERP	(SUP) ERP NFC-e - Caixa sem serie
+(SUP) ERP	(SUP) ERP NFC-e - Solicitação de URL de homologação para PE
+(SUP) ERP	(SUP) ERP NFC-e - Configuração
+(SUP) ERP	(SUP) ERP Geren. de NFC-e - Outro
+(SUP) ERP	(SUP) ERP Geren. de NFC-e -elemento 'pag' não está completo
+(SUP) ERP	(SUP) ERP Geren. de NFC-e - Outro
+(SUP) ERP	(SUP) ERP Geren. de NFC-e O valor do elemento 'xLgr' não é válido
+(SUP) ERP	(SUP) ERP Geren. de NFC-e - elemento 'vBC'. Era esperado um dos 'modBC'
+(SUP) ERP	(SUP) ERP Geren. de NFC-e - O valor do elemento 'infCpl' não é válido
+(SUP) ERP	(SUP) ERP CTe - Outro
+(SUP) ERP	(SUP) ERP MD-e - Forbbiden
+(SUP) ERP	(SUP) ERP MD-e - Pesquisa de nota na SEFAZ - Sem retorno apresentado
+(SUP) ERP	(SUP) ERP MD-e - Configuração
+(SUP) ERP	(SUP) ERP MD-e - Outro
+(SUP) ERP	(SUP) ERP MDFe - Outro
+(SUP) ERP	(SUP) ERP MDFe - Configuração
+(SUP) ERP	(SUP) ERP Sintegra - Outro
+(SUP) ERP	(SUP) ERP Sintegra - Analise de arquivo
+(SUP) ERP	(SUP) ERP SPED - Outro
+(SUP) ERP	(SUP) ERP SPED - Analise de arquivo
+(SUP) ERP	(SUP) ERP Farma - Outro
+(SUP) ERP	(SUP) ERP SNGPC - Outro
+(SUP) ERP	(SUP) ERP SNGPC - Funcionalidade
+(SUP) ERP	(SUP) ERP F. Popular - Configuração
+(SUP) ERP	(SUP) ERP F. Popular - Outro
+(SUP) ERP	(SUP) ERP SNGPC - Validar estoque SNGPC - Funcionalidade
+(SUP) ERP	(SUP) ERP SNGPC - Análise de relatório
+(SUP) ERP	(SUP) ERP F. Popular - Cadastrar máquina no portal
+(SUP) ERP	(SUP) ERP F. Popular - Login/senha não são válidos
+(SUP) ERP	(SUP) ERP F. Popular - Homologação
+(SUP) ERP	(SUP) ERP PBM - Config - Portal da drogaria
+(SUP) ERP	(SUP) ERP F. Popular - PBM - Outro
+(SUP) ERP	(SUP) ERP PBM -  Config- Funcional card
+(SUP) ERP	(SUP) ERP Farma - Atualização de preço LC
+(SUP) ERP	(SUP) ERP Pharmacos - Como utilizar
+(SUP) ERP	(SUP) ERP Cad. Produto - Outro
+(SUP) ERP	(SUP) ERP Cad. Produto - Produto já cadastrado (inativo)
+(SUP) ERP	(SUP) ERP Cad. Produto - Unknown column 'g.id_cest' in 'on clause'
+(SUP) ERP	(SUP) ERP Cad. Produto - Tabela de preço - Funcionalidade
+(SUP) ERP	(SUP) ERP Cad. Produto -  Null null ao salvar o produto após atualização (G. trib.)
+(SUP) ERP	(SUP) ERP Cad. Produto -  Null null fornecedor padrão inativo
+(SUP) ERP	(SUP) ERP Cad. Produto - Ref. Cruzada - Funcionalidade
+(SUP) ERP	(SUP) ERP Cad. Produto - Rel. classificação fiscal - Funcionalidade
+(SUP) ERP	(SUP) ERP Cad. Produto -  Código de balança fora do padrão
+(SUP) ERP	(SUP) ERP Cad. Produto -  Null null ao salvar o produto vindo de migração/imp. de tabela (G. trib.)
+(SUP) ERP	(SUP) ERP Cad. Produto - Caracteres especiais
+(SUP) ERP	(SUP) ERP Cad. Produto -   Cosmos - 429 Limite de requests excedido
+(SUP) ERP	(SUP) ERP Cad. Produto -  Data too long 'comb. cprodanp'
+(SUP) ERP	(SUP) ERP Cad. Serviços - Outro
+(SUP) ERP	(SUP) ERP Cad. Produto -  Preço de venda - Arredondamento
+(SUP) ERP	(SUP) ERP Cad. Cliente - Outro
+(SUP) ERP	(SUP) ERP Cadastros - outro
+(SUP) ERP	(SUP) ERP Cad. Caixa - Outro
+(SUP) ERP	(SUP) ERP Cad. Produto - Gtin inválido
+(SUP) ERP	(SUP) ERP Cad. Cliente - Alterar o tipo documento
+(SUP) ERP	(SUP) ERP Cad. Empresa - Null Null - Grupo empresa não selecionado
+(SUP) ERP	(SUP) ERP Cad. Usuários - Outro
+(SUP) ERP	(SUP) ERP Cad. Empresa - Outro
+(SUP) ERP	(SUP) ERP Cad. Produto -  Null null subcategoria padrão inativa
+(SUP) ERP	(SUP) ERP Cad - Null Null - Tabela grupoempresa não existia
+(SUP) ERP	(SUP) ERP Cad. G .tributação - Outro (coloque na descrição)
+(SUP) ERP	(SUP) ERP Cad. Produto -  Unidade de atacado/qtd mínima - Funcionalidade
+(SUP) ERP	(SUP) ERP Cad. Produto - Retorno - GTIN já utilizado
+(SUP) ERP	(SUP) ERP Cad. Produto - Got error 28 from storage engine - Memória cheia
+(SUP) ERP	(SUP) ERP Configuração - outro
+(SUP) ERP	(SUP) ERP - Parâmetros  - outro
+(SUP) ERP	(SUP) ERP Importar/Exportar Tabela - Data too long
+(SUP) ERP	(SUP) ERP Imendes - Outro
+(SUP) ERP	(SUP) ERP Imendes - Imendes - 200 null null
+(SUP) ERP	(SUP) ERP Imendes - 429 Too many request
+(SUP) ERP	(SUP) ERP Imendes - Configuração
+(SUP) ERP	(SUP) ERP Imendes - Instabilidade
+(SUP) ERP	(SUP) ERP Imendes - Bug visual na UF na tela de processamento
+(SUP) ERP	(SUP) ERP Imendes - Atualização do LC_IMENDES
+(SUP) ERP	(SUP) ERP Shipay - Configuração
+(SUP) ERP	(SUP) ERP Imendes - Instabilidade
+(SUP) ERP	(SUP) ERP Shipay -  Atualização do LC_SHIPAY
+(SUP) ERP	(SUP) ERP Shipay - Erro para Listar  carteiras
+(SUP) ERP	(SUP) ERP Shipay - Instabilidade no banco
+(SUP) ERP	(SUP) ERP Cosmos - Limite excedido
+(SUP) ERP	(SUP) ERP F . vendas - Token não encontrado
+(SUP) ERP	(SUP) ERP Força de Vendas - outro
+(SUP) ERP	(SUP) ERP Imendes - Null Null - Dados do grupo de trib.
+(SUP) ERP	(SUP) ERP Imendes - Analise de tributação
+(SUP) ERP	(SUP) ERP relatórios - outro
+(SUP) ERP	(SUP) ERP Dashboard - Lucro negativo
+(SUP) ERP	(SUP) ERP Outro -
+(SUP) ERP	(SUP) ERP B.I. Analise dos gráficos
+(SUP) ERP	(SUP) ERP - Registro mensal offline
+(SUP) ERP	(SUP) ERP desk - Enviar XML p contabilidade
+(SUP) ERP	(SUP) ERP desk - Entrada - outra
+(SUP) ERP	(SUP) ERP desk - Primeira instalação
+(SUP) ERP	(SUP) ERP - Troca de servidor
+(SUP) ERP	(SUP) ERP - Vendas duplicadas
+(SUP) ERP	(SUP) ERP - PDV -outro
+(SUP) ERP	(SUP) ERP -Convênio - outro
+(SUP) ERP - Rejeições	(SUP ) PDV - Outra - Rejeição- (Coloque na descrição)
+(SUP) ERP - Rejeições	(SUP) PDV - Rejeição - outra (Descreva)
+(SUP) ERP - Rejeições	(SUP) Emissor NF-e - Rejeição - outra (Descreva)
+(SUP) ERP - Rejeições	(SUP) MD-e - Rejeição - outra (Descreva)
+(SUP) ERP - Rejeições	(SUP) MDF-e - Rejeição - outra (Descreva)
+(SUP) ERP - Rejeições	(SUP) Gerenciador NFC-e - Rejeição - outra (Descreva)
+(SUP) ERP - Rejeições	(SUP) CT-e - Rejeição - outra (Descreva)
+(SUP) ERP - Rejeições	(SUP) T. Faturamento - Rejeição - outra (Descreva)
+(SUP) ERP Desk - Ct-e- Rejeições	(SUP) ERP Desk Ct-e - Rej. outra
+(SUP) ERP Desk - Gerenciador NFC-e- Rejeições	(SUP) ERP Desk Geren.nfce - Rej. Outra (Coloque na descrição)
+(SUP) ERP Desk - Gerenciador NFC-e- Rejeições	(SUP) ERP Desk Geren.nfce - Rej. 539 Duplicidade com diferença na chave de acesso
+(SUP) ERP Desk - Gerenciador NFC-e- Rejeições	(SUP) ERP Desk Geren.nfce - Rej. 205 NFC-e denegada
+(SUP) ERP Desk - Gerenciador NFC-e- Rejeições	(SUP) ERP Desk Geren.nfce - Rej. 213: CNPJ-Base do Autor difere do CNPJ-Base do Certificado Digital
+(SUP) ERP Desk - Gerenciador NFC-e- Rejeições	(SUP) ERP Desk Geren.nfce - Rej. 383: Item com CSOSN indevido
+(SUP) ERP Desk - Gerenciador NFC-e- Rejeições	(SUP) ERP Desk Geren.nfce - Rej. 537: Total do Desconto difere do somatório dos itens
+(SUP) ERP Desk - Gerenciador NFC-e- Rejeições	(SUP) ERP Desk Geren.nfce - Rej. 865: Total dos pagamentos menor que o valor total da nota Pendente
+(SUP) ERP Desk - Gerenciador NFC-e- Rejeições	(SUP) ERP Desk Geren.nfce - Rej. 611: GTIN (cEAN) inválido
+(SUP) ERP Desk - Gerenciador NFC-e- Rejeições	(SUP) ERP Desk Geren.nfce - Rej. 866: Ausência de troco quando o valor dos pagamentos informados for maior que o total da nota
+(SUP) ERP Desk - Gerenciador NFC-e- Rejeições	(SUP) ERP Desk Geren.nfce - Rej. 391 – não informado dados do cartão de credito
+(SUP) ERP Desk - Gerenciador NFC-e- Rejeições	(SUP) ERP Desk Geren.nfce - Rej. 297: Assinatura difere do calculado
+(SUP) ERP Desk - Gerenciador NFC-e- Rejeições	(SUP) ERP Desk Geren.nfce - Rej. consumo indevido
+(SUP) ERP Desk - Gerenciador NFC-e- Rejeições	(SUP) ERP Desk Geren.nfce - Rej. NCM Inválido
+(SUP) ERP Desk - Gerenciador NFC-e- Rejeições	(SUP) ERP Desk Geren.nfce - Rej. Instabilidade na SEFAZ
+(SUP) ERP Desk - Gerenciador NFC-e- Rejeições	(SUP) ERP Desk Geren.nfce - Rej. 725: NFC-e com CFOP inválido
+(SUP) ERP Desk - Gerenciador NFC-e- Rejeições	(SUP) ERP Desk Geren.nfce - Rej. 237: CPF do destinatário inválido
+(SUP) ERP Desk - Gerenciador NFC-e- Rejeições	(SUP) ERP Desk Geren.nfce - Rej. 629: Valor do Produto difere do produto Valor Unitário de Comercialização e Quantidade Comercial
+(SUP) ERP Desk - Gerenciador NFC-e- Rejeições	(SUP) ERP Desk Geren.nfce - Rej. 854: Unidade Tributável incompatível com produto informado
+(SUP) ERP Desk - Gerenciador NFC-e- Rejeições	(SUP) ERP Desk Geren.nfce - Rej. 610: Total da NF difere do somatório dos Valores compõe o valor Total da NF
+(SUP) ERP Desk - Gerenciador NFC-e- Rejeições	(SUP) ERP Desk Geren.nfce - Rej. 531: Total da BC ICMS difere do somatório dos itens
+(SUP) ERP Desk - MD-e- Rejeições	(SUP) ERP Desk MD-e - Rej. Outra (Coloque na descrição)
+(SUP) ERP Desk - MD-e- Rejeições	(SUP) ERP Desk MD-e - Rej. 137 - Nenhum documento localizado
+(SUP) ERP Desk - MD-e- Rejeições	(SUP) ERP Desk MD-e - Rej. 589-Numero do NSU informado superior ao maior NSU da base de dados do Ambiente Nacional
+(SUP) ERP Desk - MD-e- Rejeições	(SUP) ERP Desk MD-e - Rej. 656: Consumo Indevido
+(SUP) ERP Desk - MD-e- Rejeições	(SUP) ERP Desk MD-e - Rej. 573: Duplicidade de Evento
+(SUP) ERP Desk - MD-e- Rejeições	(SUP) ERP Desk MD-e - Rej. 596: Evento apresentado após o prazo permitido para o evento: [10 dias]
+(SUP) ERP Desk - MD-e- Rejeições	(SUP) ERP Desk MD-e - Rej. 296: Certificado Assinatura erro no acesso a LCR
+(SUP) ERP Desk - MD-e- Rejeições	(SUP) ERP Desk MD-e - Rej. 2238: Falha ao gerar o numero de protocolo
+(SUP) ERP Desk - MDF-e- Rejeições	(SUP) ERP Desk - MDF-e- Rej. Outra (Coloque na descrição)
+(SUP) ERP Desk - MDF-e- Rejeições	(SUP) ERP Desk - MDF-e- Rej. 580: Falha no Schema XML específico para o modal
+(SUP) ERP Desk - MDF-e- Rejeições	(SUP) ERP Desk - MDF-e- Rej. 611: Existe MDF-e não encerrado para esta placa, tipo de emitente e UF descarregamento
+(SUP) ERP Desk - PDV- Rejeições	(SUP) ERP Desk PDV -Rej. 205: NF-e está denegada na base de dados da SEFAZ
+(SUP) ERP Desk - PDV- Rejeições	(SUP) ERP Desk PDV -Rej. 999: Instabilidade na SEFAZ, nota será emitida em contingência
+(SUP) ERP Desk - PDV- Rejeições	(SUP) ERP Desk PDV - Rejeição Outra(descreva)
+(SUP) ERP Desk - PDV- Rejeições	(SUP) ERP Desk PDV - Rej. 204: Duplicidade de NF-e
+(SUP) ERP Desk - PDV- Rejeições	(SUP) ERP Desk PDV - Rej. 539: Duplicidade de NF-e, com diferença na Chave de Acesso
+(SUP) ERP Desk - PDV- Rejeições	(SUP) ERP Desk PDV - Rej. 241: Um número da faixa já foi utilizado
+(SUP) ERP Desk - PDV- Rejeições	(SUP) ERP Desk PDV - Rej. 391 não informado dados do cartão de credito
+(SUP) ERP Desk - PDV- Rejeições	(SUP) ERP Desk PDV - Rej. 464: Código de Hash no QR-Code difere do calculado
+(SUP) ERP Desk - PDV- Rejeições	(SUP) ERP Desk PDV - Rej. 590: Informado CST para emissor do Simples Nacional
+(SUP) ERP Desk - PDV- Rejeições	(SUP) ERP Desk PDV - Rej. 604: Total do vOutro difere do somatório do
+(SUP) ERP Desk - PDV- Rejeições	(SUP) ERP Desk PDV - Rej. 383: Item com CSOSN indevido
+(SUP) ERP Desk - PDV- Rejeições	(SUP) ERP Desk PDV - Rej. 395: Endereço do site da UF da Consulta via QR-Code diverge do previsto
+(SUP) ERP Desk - PDV- Rejeições	(SUP) ERP Desk PDV - Rej. 928: Informado código de benefício fiscal para CST sem benefício fiscal
+(SUP) ERP Desk - PDV- Rejeições	(SUP) ERP Desk PDV - Rej. 462: Código Identificador do CSC no QR-Code não cadastrado na SEFAZ
+(SUP) ERP Desk - PDV- Rejeições	(SUP) ERP Desk PDV - Rej. 301: Uso Denegado: Irregularidade fiscal do emitente
+(SUP) ERP Desk - PDV- Rejeições	(SUP) ERP Desk PDV - Rej. 410: UF informada no campo CUF não é atendida pelo Web Service
+(SUP) ERP Desk - PDV- Rejeições	(SUP) ERP Desk PDV - Rej. 704: NFC-e com Data-Hora de emissão atrasada
+(SUP) ERP Desk - PDV- Rejeições	(SUP) ERP Desk PDV - Rej. 373: Descrição do primeiro item diferente de NOTA FISCAL EMITIDA EM AMBIENTE DE HOMOLOGACAO - SEM VALOR FISCAL
+(SUP) ERP Desk - PDV- Rejeições	(SUP) ERP Desk PDV - Rej. 108: Serviço Paralisado Momentaneamente (curto prazo)
+(SUP) ERP Desk - PDV- Rejeições	(SUP) ERP Desk PDV - Rej. 781: Emissor não habilitado para emissão da NFC-e
+(SUP) ERP Desk - PDV- Rejeições	(SUP) ERP Desk PDV - Rej. 660: CFOP de Combustível e não informado grupo de combustível
+(SUP) ERP Desk - PDV- Rejeições	(SUP) ERP Desk PDV - Rej. 213 : CNPJ-Base do Emitente difere do CNPJ-Base do Certificado Digital
+(SUP) ERP Desk - PDV- Rejeições	(SUP) ERP Desk PDV - Rej. 960: Obrigatório o preenchimento de Grupo de Tributação do ICMS monofásica sobre combustíveis
+(SUP) ERP Desk - PDV- Rejeições	(SUP) ERP Desk PDV - Rej. 778: Informado NCM inexistente
+(SUP) ERP Desk - PDV- Rejeições	(SUP) ERP Desk PDV - Rej. 959: NF-e não pode ter preenchimento de Grupo de Tributação do ICMS monofásica sobre combustíveis
+(SUP) ERP Desk - PDV- Rejeições	(SUP) ERP Desk PDV - Rej. 703: Data-Hora de Emissão posterior ao horário de recebimento
+(SUP) ERP Desk - PDV- Rejeições	(SUP) ERP Desk PDV - Rej. 378: Grupo de Combustível sem a informação de Encerrante
+(SUP) ERP Desk - PDV- Rejeições	(SUP) ERP Desk PDV - Rej. 463: Código Identificador do CSC no QR-Code foi revogado pela empresa
+(SUP) ERP Desk - PDV- Rejeições	(SUP) ERP Desk PDV - Rej. 218: NF-e já está cancelada na base de dados da Sefaz
+(SUP) ERP Desk - PDV- Rejeições	(SUP) ERP Desk PDV - Rej. 854: Unidade Tributável (tag: uTrib) incompatível com produto informado
+(SUP) ERP Desk - PDV- Rejeições	(SUP) ERP Desk PDV - Rej. 578: A data do evento não pode ser maior que a data do processamento
+(SUP) ERP Desk - PDV- Rejeições	(SUP) ERP Desk PDV - Rej. 591: Informado CSOSN para emissor que não é do Simples Nacional (CRT diferente de 1)
+(SUP) ERP Desk - PDV- Rejeições	(SUP) ERP Desk PDV - Rej. 502: Erro na Chave de Acesso - Campo Id não corresponde à concatenação dos campos correspondentes.
+(SUP) ERP Desk - PDV- Rejeições	(SUP) ERP Desk PDV - Rej. 481: Código Regime Tributário do emitente diverge do cadastro na SEFAZ
+(SUP) ERP Desk - Rejeições - Emissor NF-e	(SUP) ERP Desk - Emis. NF-e -Rejeição. outra (descreva)
+(SUP) ERP Desk - Rejeições - Emissor NF-e	(SUP) ERP Desk - Emis. NF-e - Rej. 203: Emitente não habilitado para emissão de NF-e
+(SUP) ERP Desk - Rejeições - Emissor NF-e	(SUP) ERP Desk - Emis. NF-e - Rej. 204: Duplicidade de NF-e
+(SUP) ERP Desk - Rejeições - Emissor NF-e	(SUP) ERP Desk -NF-e - Rej. 203: Emitente não habilitado para emissão de NF-e
+(SUP) ERP Desk - Rejeições - Emissor NF-e	(SUP) ERP Desk -NF-e - Rej. 206: NF-e já está inutilizada na Base de dad
+(SUP) ERP Desk - Rejeições - Emissor NF-e	(SUP) ERP Desk -NF-e - Rej. outra (Descreva)
+(SUP) ERP Desk - Rejeições - Emissor NF-e	(SUP) ERP Desk -NF-e - Rej. 204: Duplicidade de NF-e
+(SUP) ERP Desk - Rejeições - Emissor NF-e	(SUP) ERP Desk -NF-e - Rej. 207: CNPJ do emitente inválido
+(SUP) ERP Desk - Rejeições - Emissor NF-e	(SUP) ERP Desk -NF-e - Rej. 221: Confirmado o recebimento da NF-e pelo destinatário
+(SUP) ERP Desk - Rejeições - Emissor NF-e	(SUP) ERP Desk -NF-e - Rej. 539: Duplicidade de NF-e, com diferença na Chave de Acesso
+(SUP) ERP Desk - Rejeições - Emissor NF-e	(SUP) ERP Desk -NF-e - Rej. 600: CSOSN incompatível na operação com Não Contribuinte
+(SUP) ERP Desk - Rejeições - Emissor NF-e	(SUP) ERP Desk -NF-e - Rej. 694: Não informado o grupo de ICMS para a UF de destino
+(SUP) ERP Desk - Rejeições - Emissor NF-e	(SUP) ERP Desk -NF-e - Rej. 798: Valor total do ICMS relativo Fundo de Combate à Pobreza (FCP) da UF de destino difere do somatório do valor dos itens
+(SUP) ERP Desk - Rejeições - Emissor NF-e	(SUP) ERP Desk -NF-e - Rej. 699: Percentual do ICMS Interestadual para a UF de destino difere do previsto para o ano da Data de Emissão [nItem:999]
+(SUP) ERP Desk - Rejeições - Emissor NF-e	(SUP) ERP Desk -NF-e - Rej. 696: Operação com não contribuinte deve indicar operação com consumidor final
+(SUP) ERP Desk - Rejeições - Emissor NF-e	(SUP) ERP Desk -NF-e - Rej. 695: Informado indevidamente o grupo de ICMS para a UF de destino
+(SUP) ERP Desk - Rejeições - Emissor NF-e	(SUP) ERP Desk -NF-e - Rej. 795: Total do ICMS desonerado difere do somatório dos itens
+(SUP) ERP Desk - Rejeições - Emissor NF-e	(SUP) ERP Desk -NF-e - Rej. 793: Valor do ICMS relativo ao Fundo de Combate à Pobreza na UF de destino difere do calculado
+(SUP) ERP Desk - Rejeições - Emissor NF-e	(SUP) ERP Desk -NF-e - Rej. 817: Unidade Tributável incompatível com o NCM informado na operação com Comércio Exterio
+(SUP) ERP Desk - Rejeições - Emissor NF-e	(SUP) ERP Desk -NF-e - Rej. 817: Unidade Tributável incompatível com o NCM informado na operação com Comércio Exterior
+(SUP) ERP Desk - Rejeições - Emissor NF-e	(SUP) ERP Desk -NF-e - Rej. 883: GTIN (cEAN) sem informação
+(SUP) ERP Desk - Rejeições - Emissor NF-e	(SUP) ERP Desk -NF-e - Rej. 302: Uso Denegado: Irregularidade fiscal do destinatário
+(SUP) ERP Desk - Rejeições - Emissor NF-e	(SUP) ERP Desk -NF-e - Rej. 537: Total do Desconto difere do somatório dos itens
+(SUP) ERP Desk - Rejeições - Emissor NF-e	(SUP) ERP Desk -NF-e - Rej. 733: CFOP de operação interna e idDest diferente de 1
+(SUP) ERP Desk - Rejeições - Emissor NF-e	(SUP) ERP Desk -NF-e - Rej. 232: IE do destinatário não informada
+(SUP) ERP Desk - Rejeições - Emissor NF-e	(SUP) ERP Desk -NF-e - Rej. 720: Na operação com Exterior deve ser informada tag idEstrangeiro
+(SUP) ERP Desk - Rejeições - Emissor NF-e	(SUP) ERP Desk -NF-e - Rej. 855: Somatório percentuais de GLP derivado do petróleo, GLGNn e GLGNi diferente de 100
+(SUP) ERP Desk - Rejeições - Emissor NF-e	(SUP) ERP Desk -NF-e - Rej. 904: Informado indevidamente campo valor de pagamento
+(SUP) ERP Desk - Rejeições - Emissor NF-e	(SUP) ERP Desk -NF-e - Rej. 629: Valor do Produto difere do produto Valor Unitário de Comercialização e Quantidade Comercial
+(SUP) ERP Desk - Rejeições - Emissor NF-e	(SUP) ERP Desk -NF-e - Rej. 521: Operação Interna e UF do emitente difere da UF do destinatário/remetente contribuinte do ICMS
+(SUP) ERP Desk - Rejeições - Emissor NF-e	(SUP) ERP Desk -NF-e - Rej.  591: Informado CSOSN para emissor que não é do Simples Nacional (CRT diferente de 1)
+(SUP) ERP Desk - Rejeições - Emissor NF-e	(SUP) ERP Desk -NF-e - Rej. 291: Certificado Assinatura Data Validade
+(SUP) ERP Desk - Rejeições - Emissor NF-e	(SUP) ERP Desk -NF-e - Rej. 501: Prazo de cancelamento superior ao previsto na Legislação
+(SUP) ERP Desk - Rejeições - Emissor NF-e	(SUP) ERP Desk -NF-e - Rej. 854: Unidade Tributável (tag: uTrib) incompatível com produto informado
+(SUP) ERP Desk - Rejeições - Emissor NF-e	(SUP) ERP Desk -NF-e - Rej. 678: NF referenciada com UF diferente da NF-e complementar
+(SUP) ERP Desk - Rejeições - Emissor NF-e	(SUP) ERP Desk -NF-e - Rej. 926: Operação com Exterior e país de destino igual a Brasil
+(SUP) ERP Desk - Rejeições - Emissor NF-e	(SUP) ERP Desk -NF-e - Rej. 997: série já vinculada a outra inscrição estadual deste CNPJ
+(SUP) ERP Desk - Rejeições - Emissor NF-e	(SUP) ERP Desk -NF-e - Rej. 296: Certificado Assinatura erro no acesso a LCR
+(SUP) ERP Desk - Rejeições - Emissor NF-e	(SUP) ERP Desk -NF-e - Rej. 249: UF da Chave de Acesso diverge da UF autorizadora
+(SUP) ERP Desk - Rejeições - Emissor NF-e	(SUP) ERP Desk -NF-e - Rej. 506 - Data de Saída menor que a Data de Emissão
+(SUP) ERP Desk - Rejeições - Emissor NF-e	(SUP) ERP Desk -NF-e - Rej. 693: Alíquota de ICMS superior a definida para a operação interestadual
+(SUP) ERP Desk - Rejeições - Emissor NF-e	(SUP) ERP Desk -NF-e - Rej. 799: Valor total do ICMS Interestadual da UF de destino difere do somatório dos itens
+(SUP) ERP Desk - Rejeições - Emissor NF-e	(SUP) ERP Desk -NF-e - Rej. 590: Informado CST para emissor do Simples Nacional (CRT=1)
+(SUP) ERP Desk - Rejeições - Emissor NF-e	(SUP) ERP Desk -NF-e - Rej. 868: Grupos Veículo Transporte e Reboque não devem ser informados
+(SUP) ERP Desk - Rejeições - Emissor NF-e	(SUP) ERP Desk -NF-e - Rej. 960: Obrigatório o preenchimento de Grupo de Tributação do ICMS monofásica sobre combustíveis
+(SUP) ERP Desk - Rejeições - Emissor NF-e	(SUP) ERP Desk -NF-e - Rej. 375: NF-e com lançamento relativo a Cupom Fiscal referencia uma NFC-e
+(SUP) ERP Desk - Rejeições - Emissor NF-e	(SUP) ERP Desk -NF-e - Rej. 531: NF-e - Total da BC ICMS difere do somatório dos itens
+(SUP) ERP Desk - Rejeições - Emissor NF-e	(SUP) ERP Desk -NF-e - Rej. 508: CST incompatível na operação com Não Contribuinte
+(SUP) ERP Desk - Rejeições - Emissor NF-e	(SUP) ERP Desk -NF-e - Rej. 511: Não é de Operação com Exterior e Código País destinatário difere de 1058 (Brasil)
+(SUP) ERP Desk - Rejeições - Emissor NF-e	(SUP) ERP Desk -NF-e - Rej. 805: A SEFAZ do destinatário não permite Contribuinte Isento de Inscrição Estadual
+(SUP) ERP Desk - Rejeições - Emissor NF-e	(SUP) ERP Desk -NF-e - Rej. 324: CNPJ do destinatário já autorizado para download
+(SUP) ERP Desk - Rejeições - Emissor NF-e	(SUP) ERP Desk -NF-e - Rej. 486: Não informado o Grupo de Autorização para UF que exige a identificação do Escritório de Contabilidade na Nota Fiscal
+(SUP) ERP Desk - Rejeições - Emissor NF-e	(SUP) ERP Desk -NF-e - Rej. 545: NF-e de devolução com valor total superior a NF-e devolvida
+(SUP) ERP Desk - Rejeições - Emissor NF-e	(SUP) ERP Desk -NF-e - Rej. 362: Venda de combustível sem informação do Transportador
+(SUP) ERP Desk - Rejeições - Emissor NF-e	(SUP) ERP Desk -NF-e - Rej. 863: Total do IPI devolvido difere do somatório dos itens
+(SUP) ERP Desk - Rejeições - Emissor NF-e	(SUP) ERP Desk -NF-e - Rej. 528: Valor do ICMS difere do produto BC e Alíquota
+(SUP) ERP Desk - Rejeições - Emissor NF-e	(SUP) ERP Desk -NF-e - Rej. 848: Transporte próprio por conta do Destinatário e CNPJ Base ou CPF do Transportador difere do CNPJ Base ou CPF do Destinatário
+(SUP) ERP Desk - Rejeições - Emissor NF-e	(SUP) ERP Desk -NF-e - Rej. 354: Informado grupo de devolução de tributos para NF-e que não tem finalidade de devolução de mercadoria
+(SUP) ERP Desk - Rejeições - Emissor NF-e	(SUP) ERP Desk -NF-e - Rej. 105 - Lote em processamento
+(SUP) ERP Desk - Rejeições - Emissor NF-e	(SUP) ERP Desk -NF-e - Rej. 698: Alíquota interestadual do ICMS incompatível com as UF envolvidas na operação
+(SUP) ERP Desk - Rejeições - Emissor NF-e	(SUP) ERP Desk -NF-e - Rej. 732: CFOP de operação interestadual e idDest diferente de 2
+(SUP) ERP Desk - Rejeições - Emissor NF-e	(SUP) ERP Desk -NF-e - Rej. 208: CNPJ do destinatário inválido
+(SUP) ERP Desk -T.faturamento- Rejeições	(SUP) ERP Desk Fatur. - Rej. Outra (Coloque na descrição)
+(SUP) ERP Desk -T.faturamento- Rejeições	(SUP) ERP Desk Fatur. - Rej. 778: Informado NCM inexistente
+(SUP) ERP Desk -T.faturamento- Rejeições	(SUP) ERP Desk Fatur. - Rej. 629: Valor do Produto difere do produto Valor Unitário de Comercialização e Quantidade Comercial
+(SUP) Inatividade	(SUP) Inatividade da revenda
+(SUP) LC Academy	(SUP) LC Academy - cadastro
+(SUP) LC Auto Backup	(SUP) LC Auto Backup - outro
+(SUP) LC Auto Backup	(SUP) LC Auto Backup - Backup em outra unidade do Win.
+(SUP) LC Auto Backup	(SUP) LC Auto Backup - Realização de backup
+(SUP) LC Auto Backup	(SUP) LC Auto Backup - MySQL em variáveis de ambente do Windows (não configurado)
+(SUP) LC Auto Backup	(SUP) LC Auto Backup -'Erro, não restaurada' - Caractere especial no caminho
+(SUP) LC Monitor	(SUP) LC Monitor - outro
+(SUP) LC Monitor	(SUP) LC Monitor - C. especiais
+(SUP) LC Monitor	(SUP) LC Monitor -  Null - Forbidden
+(SUP) LC Monitor	(SUP) LC Monitor -  Caminho do certificado não encontrado
+(SUP) LC Monitor	(SUP) LC Monitor -  Null - Grupo trib. com campos nulos
+(SUP) LC Monitor	(SUP) LC Monitor -  Null - Verifique seu certificado
+(SUP) LC Monitor	(SUP) LC Monitor -  Falha na conexão
+(SUP) LC Monitor	(SUP) LC Monitor -  Atualização do CST 61
+(SUP) LC Monitor	(SUP) LC Monitor -  Null - Atenção, verifique o certificado digital
+(SUP) Problema de Infraestrutura	(SUP) -Computador do cliente - outro
+(SUP) Problema de Infraestrutura	(SUP) -Rede interna do cliente- outro
+(SUP) Regularize seu cadastro - Cliente sem contrato	(SUP) Regularize seu cadastro - Cliente sem contrato
+(SUP) Solicitação - Rel ou desenvolvimento	(SUP) Solicitação - Rel ou desenvolvimento - outra
+(SUP) Solucionado pela revenda	(SUP) Solucionado pela revenda
+(SUP) Teste da plataforma	(SUP) Teste da plataforma
+(SUP) Windows	(SUP) Windows - outro
+(SUP) Windows	(SUP) Windows - Firewall
+(SUP) Windows	(SUP) Windows - Compartilhamento de pastas
+(SUP) Windows	(SUP) Windows - VPN - outro
+Banco de dados	Instalação
+Banco de dados	Ajuste de tributação em massa
+Banco de dados	Banco de dados - Outro
+Conflito de bots	Conflito de bots
+Equipamentos	Balança etiquetadora
+Equipamentos	Balança checkout
+Equipamentos	Impressora termica
+Equipamentos	Impressora A4
+Equipamentos	Equipamentos - outro
+ERP - Fiscal	Null no contas a receber
+ERP - Fiscal	Teste
+ERP - Fiscal	Rejeições - Emissor de Nf-e
+ERP Geral	LC ERP desktop - Instalação
+ERP Geral	LC ERP desktop - Atualização por PI
+ERP Geral	LC ERP desktop - Atualização por SETUP
+ERP Geral	ERP geral outro
+LC ERP	Instalação do LC ERP
+LC ERP	Configuração de certificado na NF-e
+LC ERP	ERP - Geral - outro
