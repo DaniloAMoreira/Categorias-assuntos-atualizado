@@ -320,7 +320,7 @@
 
                 renderer = new THREE.WebGLRenderer({ canvas: canvas, antialias: true });
                 renderer.setSize(window.innerWidth, window.innerHeight);
-                renderer.setClearColor(0x0a0f1f, 1); // Cor de fundo
+                renderer.setClearColor(0x0a0f1f, 1);
 
                 const starGeo = new THREE.BufferGeometry();
                 const starVertices = [];
@@ -358,23 +358,19 @@
 
             initThreeJS();
 
-            // --- Variáveis e Seletores Globais ---
+            // --- Variáveis Globais e Seletores ---
             let categories = [];
             let knowledgeCategoriesChartInstance = null;
+            let isAppInitialized = false;
 
-            // --- Seletores de Login ---
+            // Seletores de Login
             const loginScreen = document.getElementById('login-screen');
             const mainContent = document.getElementById('main-content');
             const passwordInput = document.getElementById('passwordInput');
             const loginBtn = document.getElementById('loginBtn');
             const loginError = document.getElementById('loginError');
-
-            // --- Seletores de Permissões ---
-            const adminFeatures = document.querySelectorAll('.admin-feature');
-            const exportContainer = document.getElementById('export-container');
-            const headerButtons = document.getElementById('header-buttons');
-
-            // --- Seletores de Abas e Conteúdo ---
+            
+            // Seletores de Abas e Conteúdo
             const tabKnowledge = document.getElementById('tab-knowledge');
             const tabDashboardKnowledge = document.getElementById('tab-dashboard-knowledge');
             const tabDashboardTickets = document.getElementById('tab-dashboard-tickets');
@@ -385,7 +381,7 @@
             const totalSubjectsEl = document.getElementById('totalSubjects');
             const categoriesChartEl = document.getElementById('categoriesChart');
 
-            // --- Funções Globais ---
+            // --- Funções movidas para o escopo global do DOMContentLoaded ---
             const updateDashboardKnowledge = () => {
                 const totalSubjects = categories.reduce((acc, cat) => acc + cat.subjects.length, 0);
                 totalCategoriesEl.textContent = categories.length;
@@ -441,63 +437,12 @@
                     updateDashboardKnowledge();
                 }
             };
-            
-            // --- Lógica do Sistema de Login ---
-            const handleLogin = () => {
-                const password = passwordInput.value;
-                loginError.textContent = '';
-                let role = null;
 
-                if (password === 'a') {
-                    role = 'standard';
-                } else if (password === 'LC2025') { // SENHA DO ADMIN ALTERADA
-                    role = 'admin';
-                }
-
-                if (role) {
-                    sessionStorage.setItem('userRole', role);
-                    loginScreen.classList.add('hidden');
-                    mainContent.classList.remove('hidden');
-                    applyPermissions(role);
-                    initializeApp();
-                } else {
-                    loginError.textContent = 'Senha incorreta.';
-                    passwordInput.focus();
-                }
-            };
-
-            const handleLogout = () => {
-                sessionStorage.removeItem('userRole');
-                location.reload();
-            };
-
-            const applyPermissions = (role) => {
-                if (role === 'standard') {
-                    adminFeatures.forEach(el => el.classList.add('hidden'));
-                    if(exportContainer) exportContainer.classList.add('hidden');
-                    switchTab('knowledge');
-                } else if (role === 'admin') {
-                    adminFeatures.forEach(el => el.classList.remove('hidden'));
-                     if(exportContainer) exportContainer.classList.remove('hidden');
-                }
-            };
-            
-            const checkLoginState = () => {
-                const role = sessionStorage.getItem('userRole');
-                if (role) {
-                    loginScreen.classList.add('hidden');
-                    mainContent.classList.remove('hidden');
-                    applyPermissions(role);
-                    initializeApp();
-                } else {
-                    loginScreen.classList.remove('hidden');
-                    mainContent.classList.add('hidden');
-                }
-            };
-
-            // --- Função para inicializar o app principal ---
+            // --- Função de Inicialização do App ---
             const initializeApp = () => {
-                
+                if (isAppInitialized) return;
+                isAppInitialized = true;
+
                 const chartInstances = {
                     ticketTypesChart: null,
                     ticketCategoriesChart: null,
@@ -506,7 +451,7 @@
                 };
                 const fullChartData = {};
 
-                // --- Seletores de Elementos ---
+                // Seletores de Elementos do App Principal
                 const searchInput = document.getElementById('searchInput');
                 const addCategoryBtn = document.getElementById('addCategoryBtn');
                 const addCategoryForm = document.getElementById('addCategoryForm');
@@ -519,26 +464,26 @@
                 const exportExcelBtn = document.getElementById('exportExcelBtn');
                 const exportMarkdownBtn = document.getElementById('exportMarkdownBtn');
                 const fileInput = document.getElementById('fileInput');
-                
                 const loadTicketsBtn = document.getElementById('loadTicketsBtn');
                 const ticketsFileInput = document.getElementById('ticketsFileInput');
                 const ticketsDashboardContent = document.getElementById('ticketsDashboardContent');
                 const totalTicketsEl = document.getElementById('totalTickets');
                 const totalAgentsEl = document.getElementById('totalAgents');
                 const totalTicketTypesEl = document.getElementById('totalTicketTypes');
+                const headerButtons = document.getElementById('header-buttons');
 
-                // --- Adiciona Botão de Logout ---
+                // Adiciona Botão de Logout
                 if (!document.getElementById('logoutBtn')) {
                     const logoutBtn = document.createElement('button');
                     logoutBtn.id = 'logoutBtn';
                     logoutBtn.title = 'Sair (voltar para tela de login)';
                     logoutBtn.className = 'p-2 bg-surface hover:bg-primary border border-primary/50 rounded-full glow-on-hover';
                     logoutBtn.innerHTML = `<svg class="w-6 h-6 text-text-muted" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 16l4-4m0 0l-4-4m4 4H7m6 4v1a3 3 0 01-3 3H6a3 3 0 01-3-3V7a3 3 0 013-3h4"></path></svg>`;
-                    headerButtons.prepend(logoutBtn); // Adiciona como primeiro botão
+                    headerButtons.prepend(logoutBtn);
                     logoutBtn.addEventListener('click', handleLogout);
                 }
 
-                // --- Lógica da Base de Conhecimento ---
+                // --- Funções do App Principal ---
                 const loadData = () => {
                     const storedData = localStorage.getItem('knowledgeBaseDataV2');
                     categories = storedData ? JSON.parse(storedData) : [];
@@ -773,7 +718,6 @@
                     }
                 };
 
-                // --- Lógica de Importação, Exportação e Merge ---
                 const exportToExcel = () => {
                     if (categories.length === 0) {
                         showModal("Não há dados para exportar.");
@@ -931,7 +875,6 @@
                     modal.querySelector('.modal-cancel-btn').addEventListener('click', () => document.body.removeChild(modal));
                 };
 
-                // --- Lógica do Dashboard de Atendimentos ---
                 const processTicketData = (text) => {
                     const lines = text.split(/\r?\n/).filter(line => line.trim() !== '');
                     if (lines.length <= 1) {
@@ -1072,20 +1015,12 @@
                     Object.keys(chartInstances).forEach(id => updateChartDisplay(id, false));
                 };
 
-                // --- Lógica para os Dropdowns de Atendimento ---
                 const initializeDropdowns = async () => {
                     const ticketSelectorPanel = document.getElementById('ticket-selector-panel');
                     const categorySelect = document.getElementById('ticketCategorySelect');
                     const subjectSelect = document.getElementById('ticketSubjectSelect');
 
-                    // =================================================================================
-                    // IMPORTANTE: Substitua a URL abaixo pela URL do seu arquivo .txt no GitHub
-                    // Para obter a URL correta:
-                    // 1. Vá para o seu arquivo .txt no repositório do GitHub.
-                    // 2. Clique no botão "Raw".
-                    // 3. Copie a URL da barra de endereço do seu navegador.
-                    // =================================================================================
-                    const fileUrl = https://raw.githubusercontent.com/DaniloAMoreira/Categorias-assuntos-atualizado/refs/heads/main/index.html;
+                    const fileUrl = 'https://raw.githubusercontent.com/SEU-USUARIO/SEU-REPOSITORIO/main/caminho/para/seu/arquivo.txt';
 
                     try {
                         const response = await fetch(fileUrl);
@@ -1094,7 +1029,6 @@
                         }
                         const dadosBrutos = await response.text();
 
-                        // Processa os dados brutos para agrupar assuntos por categoria
                         const dadosAgrupados = dadosBrutos
                             .trim()
                             .split('\n')
@@ -1102,20 +1036,18 @@
                             .reduce((acc, [categoria, assunto]) => {
                                 if (categoria && assunto) {
                                     if (!acc[categoria]) {
-                                        acc[categoria] = new Set(); // Usa Set para evitar duplicatas
+                                        acc[categoria] = new Set();
                                     }
                                     acc[categoria].add(assunto);
                                 }
                                 return acc;
                             }, {});
 
-                        // Converte os Sets para Arrays e ordena
                         const dadosFinais = {};
                         for (const categoria in dadosAgrupados) {
                             dadosFinais[categoria] = Array.from(dadosAgrupados[categoria]).sort();
                         }
                         
-                        // Limpa o placeholder e preenche o dropdown de categorias
                         categorySelect.innerHTML = '<option value="">Selecione uma categoria</option>';
                         const categoriasOrdenadas = Object.keys(dadosFinais).sort();
                         categoriasOrdenadas.forEach(categoria => {
@@ -1125,10 +1057,9 @@
                             categorySelect.appendChild(option);
                         });
 
-                        // Adiciona o listener para o dropdown de categorias
                         categorySelect.addEventListener('change', () => {
                             const categoriaSelecionada = categorySelect.value;
-                            subjectSelect.innerHTML = ''; // Limpa as opções anteriores
+                            subjectSelect.innerHTML = '';
 
                             if (categoriaSelecionada) {
                                 const assuntos = dadosFinais[categoriaSelecionada];
@@ -1160,7 +1091,7 @@
                 };
 
 
-                // --- Listeners de Eventos ---
+                // --- Listeners de Eventos do App Principal ---
                 tabKnowledge.addEventListener('click', () => switchTab('knowledge'));
                 tabDashboardKnowledge.addEventListener('click', () => switchTab('dashboard-knowledge'));
                 tabDashboardTickets.addEventListener('click', () => switchTab('dashboard-tickets'));
@@ -1216,7 +1147,62 @@
 
                 // --- Inicialização da Aplicação ---
                 loadData();
-                initializeDropdowns(); // Chama a função que inicializa os dropdowns
+                initializeDropdowns();
+            };
+
+            // --- Funções de Login e Controle de Sessão ---
+            const applyPermissions = (role) => {
+                const adminFeatures = document.querySelectorAll('.admin-feature');
+                const exportContainer = document.getElementById('export-container');
+                if (role === 'standard') {
+                    adminFeatures.forEach(el => el.classList.add('hidden'));
+                    if(exportContainer) exportContainer.classList.add('hidden');
+                    switchTab('knowledge'); // Agora esta função está no escopo correto
+                } else if (role === 'admin') {
+                    adminFeatures.forEach(el => el.classList.remove('hidden'));
+                     if(exportContainer) exportContainer.classList.remove('hidden');
+                }
+            };
+            
+            const handleLogout = () => {
+                sessionStorage.removeItem('userRole');
+                location.reload();
+            };
+
+            const handleLogin = () => {
+                const password = passwordInput.value;
+                loginError.textContent = '';
+                let role = null;
+
+                if (password === 'a') {
+                    role = 'standard';
+                } else if (password === 'LC2025') {
+                    role = 'admin';
+                }
+
+                if (role) {
+                    sessionStorage.setItem('userRole', role);
+                    loginScreen.classList.add('hidden');
+                    mainContent.classList.remove('hidden');
+                    applyPermissions(role);
+                    initializeApp();
+                } else {
+                    loginError.textContent = 'Senha incorreta.';
+                    passwordInput.focus();
+                }
+            };
+
+            const checkLoginState = () => {
+                const role = sessionStorage.getItem('userRole');
+                if (role) {
+                    loginScreen.classList.add('hidden');
+                    mainContent.classList.remove('hidden');
+                    applyPermissions(role);
+                    initializeApp();
+                } else {
+                    loginScreen.classList.remove('hidden');
+                    mainContent.classList.add('hidden');
+                }
             };
 
             // --- Ponto de Entrada Inicial ---
